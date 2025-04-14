@@ -42,6 +42,9 @@ Run the executable:
 ./flappy_bird.exe
 ```
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/1d1bac8c-97e2-4ce2-9b55-7af5b6d60bf6)
+
 ## Game Logic
 1. The game starts with a menu screen offering options to play, view instructions, or quit
 2. The bird automatically falls due to simulated gravity
