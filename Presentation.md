@@ -18,7 +18,6 @@ This game utilizes several data structures for game logic:
 - **2D Character Array (`bird[][]`)**: Represents the ASCII art of the bird character
 - **Integer Variables (`birdPos`, `score`)**: Track the bird's vertical position and player's score
 - **Constants (`SCREEN_WIDTH`, `SCREEN_HEIGHT`, `WIN_WIDTH`, `GAP_SIZE`)**: Define the game boundaries and pipe characteristics
-- **Windows API Structures (`COORD`, `CONSOLE_CURSOR_INFO`)**: Handle console cursor positioning and visibility
 
 ## Controls
 ```
